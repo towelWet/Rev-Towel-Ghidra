@@ -1,5 +1,8 @@
 # Towel Ghidra: Ghidra.app 🔍💻🚀
 
+* For Mac Only
+
+
 ## 🚀 Getting Started 🚀
 
 ## 🌟 Features 🌟
